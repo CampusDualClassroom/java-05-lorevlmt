@@ -3,10 +3,13 @@ package com.campusdual.classroom;
 public class Exercise05 {
     public static void main(String[] args) {
         checkLessOrGreaterEqual(1, 2);
+        checkLessOrGreaterEqual(5, 3);
 
         checkMultiply(1, 2);
+        checkMultiply(10, 5);
 
         checkPositiveNegative(2);
+        checkPositiveNegative(-2);
 
     }
 
